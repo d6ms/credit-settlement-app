@@ -1,4 +1,4 @@
 # Bot User OAuth Access Token
-API_TOKEN = "***"
-DEFAULT_REPLY = "I don't understand you."
+API_TOKEN = "******"
+default_reply = "I don't understand you"
 PLUGINS = ['plugins']
